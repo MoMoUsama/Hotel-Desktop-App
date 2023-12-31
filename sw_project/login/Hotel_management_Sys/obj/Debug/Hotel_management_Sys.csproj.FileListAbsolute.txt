@@ -1,0 +1,54 @@
+C:\Users\Lenovo\OneDrive\Desktop\sw_project\login\Hotel_management_Sys\bin\Debug\Hotel_management_Sys.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\sw_project\login\Hotel_management_Sys\bin\Debug\Hotel_management_Sys.exe
+C:\Users\Lenovo\OneDrive\Desktop\sw_project\login\Hotel_management_Sys\bin\Debug\Hotel_management_Sys.pdb
+C:\Users\Lenovo\OneDrive\Desktop\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.exe
+C:\Users\Lenovo\OneDrive\Desktop\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.pdb
+C:\Users\Lenovo\OneDrive\Desktop\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Resource1.resources
+C:\Users\Lenovo\OneDrive\Desktop\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Login.resources
+C:\Users\Lenovo\OneDrive\Desktop\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Admin.resources
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\bin\Debug\Hotel_management_Sys.exe.config
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\bin\Debug\Hotel_management_Sys.exe
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\bin\Debug\Hotel_management_Sys.pdb
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.csproj.AssemblyReference.cache
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Admin.resources
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Login.resources
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Properties.Resources.resources
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Resource1.resources
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.csproj.GenerateResource.cache
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.csproj.CoreCompileInputs.cache
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.exe
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.pdb
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\WindowsFormsApp1.Manager.resources
+C:\Users\AhmedAbdulJalil\OneDrive - Helwan university(Engineering (Helwan))\Desktop\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\FirstTime.Reception.resources
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\bin\Debug\Hotel_management_Sys.exe.config
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\bin\Debug\Hotel_management_Sys.exe
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\bin\Debug\Hotel_management_Sys.pdb
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Admin.resources
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\FirstTime.Reception.resources
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\WindowsFormsApp1.Manager.resources
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Login.resources
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Properties.Resources.resources
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Resource1.resources
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.exe
+C:\Users\hp\Desktop\New folder\sw_project\sw_project\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Admin.resources
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\obj\Debug\FirstTime.Reception.resources
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\obj\Debug\WindowsFormsApp1.Manager.resources
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Login.resources
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.Resource1.resources
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.exe
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\obj\Debug\Hotel_management_Sys.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\bin\Debug\Hotel_management_Sys.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\bin\Debug\Hotel_management_Sys.exe
+C:\Users\Lenovo\OneDrive\Desktop\SW Project (last Version)\sw_project\login\Hotel_management_Sys\bin\Debug\Hotel_management_Sys.pdb
